@@ -1,4 +1,5 @@
 ## Bem-vindo(a) ao perfil Leticia Melo 😁
+Estudante de ADS | Foco em Front-end | HTML, CSS e JavaScript
 
  <div>
    <a href="https://github.com/Leticia-Meloo">
