@@ -1,7 +1,6 @@
 ## Bem-vindo(a) ao perfil Leticia Melo 😁
-Estudante de ADS | Foco em Front-end | HTML, CSS e JavaScript
-
-    
+Estudante de ADS | Foco em desenvolvimento front-end | HTML, CSS e JavaScript
+   
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
