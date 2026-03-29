@@ -1,4 +1,4 @@
-# Olá, eu sou a Leticia Melo
+# Olá, eu sou Leticia Melo
 
 - Em transição para tecnologia  
 - Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
