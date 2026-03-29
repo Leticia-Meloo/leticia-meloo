@@ -1,6 +1,15 @@
-## Bem-vindo(a) ao perfil Leticia Melo 😁
-Estudante de ADS | Foco em desenvolvimento front-end | HTML, CSS e JavaScript
-   
+# Olá, eu sou a Leticia Melo
+
+- Em transição para tecnologia  
+- Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
+- Foco em desenvolvimento Front-end  
+
+## Sobre mim
+
+Venho de uma área totalmente prática, onde aprendi muito sobre trabalho em equipe e lidar com pessoas. Agora estou trazendo essa base para a tecnologia, que também exige colaboração constante.
+
+Atualmente estou focada em aprender e construir projetos com:
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -8,8 +17,14 @@ Estudante de ADS | Foco em desenvolvimento front-end | HTML, CSS e JavaScript
 </div>
  
 <br>
+
+### Em aprendizado
+
+- Lógica de programação  
+- Desenvolvimento web  
+- Versionamento com Git
  
-### Me segue na rede abaixo!
+#### Contato
  
 <div> 
 
