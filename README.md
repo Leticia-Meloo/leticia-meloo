@@ -4,7 +4,7 @@
 - Focada em Front-end | HTML | CSS | JavaScript
 - Em formação pela DIO  
 
-## Atualmente estou focada em aprender e construir projetos com:
+### Atualmente estou focada em aprender e construir projetos com:
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
