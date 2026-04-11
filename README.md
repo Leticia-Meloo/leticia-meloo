@@ -1,14 +1,10 @@
-# Olá, eu sou Leticia Melo
+# Olá, sou Leticia Melo
 
-- Em transição para tecnologia  
-- Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
-- Foco em desenvolvimento Front-end  
+- Estudante de Análise e Desenvolvimento de Sistemas 
+- Focada em Front-end | HTML | CSS | JavaScript
+- Em formação pela DIO  
 
-## Sobre mim
-
-Venho de uma área totalmente prática, onde aprendi muito sobre trabalho em equipe e lidar com pessoas. Agora estou trazendo essa base para a tecnologia, que também exige colaboração constante.
-
-Atualmente estou focada em aprender e construir projetos com:
+## Atualmente estou focada em aprender e construir projetos com:
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
