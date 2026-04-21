@@ -40,12 +40,13 @@ Estudante de ADS • Desenvolvedora em formação • JavaScript • Foco em bac
 ---
 
 
-## 🎯 Objetivo
+##  Objetivo
 
 Buscando oportunidade de estágio em tecnologia, com foco em desenvolvimento de software e interesse no setor bancário.
+
 ---
 
-## 📫 Vamos nos conectar?
+##  Contatos
 
 <a href="https://www.linkedin.com/in/leticia-melo-dev" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
