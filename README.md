@@ -1,10 +1,10 @@
-# 👋 Olá, eu sou Letícia!
+# Olá, eu sou Leticia!
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=25&center=true&vCenter=true&width=1000&lines=Estudante+de+ADS;Desenvolvedora+em+formação;JavaScript+Developer;Em+transição+para+tecnologia;Foco+em+backend+e+sistemas+financeiros" />
+Estudante de ADS • Desenvolvedora em formação • JavaScript • Foco em backend e sistemas financeiros
 
 ---
 
-## 🧠 Sobre mim
+##  Sobre mim
 
 💡 Em transição de carreira para tecnologia  
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
@@ -13,7 +13,7 @@
 
 ---
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 <div style="display: inline_block"><br>
 
@@ -28,11 +28,11 @@
 
 ---
 
-## 📊 Estatísticas
+##  Estatísticas
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticia-melooshow_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticia-meloo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticia-meloo&layout=compact&theme=tokyonight"/>
 
@@ -40,31 +40,6 @@
 
 ---
 
-## 🔥 Projetos em destaque
-
-🔹 **bank-system-js**  
-Sistema de conta bancária com operações de depósito, saque e saldo  
-👉 https://github.com/leticia-meloo/bank-system-js  
-
-🔹 **todo-list**  
-Aplicação de lista de tarefas com armazenamento local  
-👉 https://github.com/leticia-meloo/todo-list  
-
-🔹 **api-finance**  
-API REST de transações financeiras (em desenvolvimento)  
-👉 https://github.com/leticia-meloo/api-finance  
-
----
-
-## 📚 Atualmente estudando
-
-- JavaScript (avançado)  
-- Node.js  
-- APIs REST  
-- SQL  
-- Estrutura de dados  
-
----
 
 ## 🎯 Objetivo
 
@@ -82,9 +57,9 @@ Buscando oportunidade de estágio em desenvolvimento de software para aplicar me
 <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
----
 
-✨ Feito com dedicação e foco na evolução 🚀
+
+
 
 
 
