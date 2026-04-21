@@ -32,19 +32,17 @@ Estudante de ADS • Desenvolvedora em formação • JavaScript • Foco em bac
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticia-meloo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticia-meloo&show_icons=true&theme=tokyonight"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticia-meloo&layout=compact&theme=tokyonight"/>
 
 </div>
-
 ---
 
 
 ## 🎯 Objetivo
 
-Buscando oportunidade de estágio em desenvolvimento de software para aplicar meus conhecimentos, evoluir na área e contribuir com soluções reais, especialmente no setor financeiro.
-
+Buscando oportunidade de estágio em tecnologia, com foco em desenvolvimento de software e interesse no setor bancário.
 ---
 
 ## 📫 Vamos nos conectar?
