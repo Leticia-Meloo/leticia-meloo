@@ -1,14 +1,14 @@
-# 👩‍💻 Olá, eu sou Leticia Melo
+# 👋 Olá, eu sou Letícia!
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=25&center=true&vCenter=true&width=1000&lines=Estudante+de+ADS;Desenvolvedora+em+formação;JavaScript+Developer;Em+transição+para+tecnologia;Foco+em+backend+e+sistemas+financeiros" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=25&center=true&vCenter=true&width=1000&lines=Estudante+de+ADS;Desenvolvedora+em+formação;JavaScript+Developer;Em+transição+para+tecnologia;Foco+em+backend+e+sistemas+financeiros" />
 
 ---
 
-## 🚀 Sobre mim
+## 🧠 Sobre mim
 
 💡 Em transição de carreira para tecnologia  
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Foco em JavaScript e desenvolvimento web   
+💻 Foco em JavaScript e desenvolvimento web    
 🏦 Interesse em tecnologia aplicada ao setor financeiro  
 
 ---
@@ -17,10 +17,11 @@
 
 <div style="display: inline_block"><br>
 
-<img align="center" alt="JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-<img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-<img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-<img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<img align="center" alt="JS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img align="center" alt="HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+<img align="center" alt="CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+<img align="center" alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<img align="center" alt="GitHub" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 
 </div>
 
@@ -30,7 +31,7 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticia-meloo&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticia-melooshow_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticia-meloo&layout=compact&theme=tokyonight"/>
 
@@ -38,21 +39,52 @@
 
 ---
 
+## 🔥 Projetos em destaque
 
+🔹 **bank-system-js**  
+Sistema de conta bancária com operações de depósito, saque e saldo  
+👉 https://github.com/leticia-meloo/bank-system-js  
 
-## 🎯 Objetivo
+🔹 **todo-list**  
+Aplicação de lista de tarefas com armazenamento local  
+👉 https://github.com/leticia-meloo/todo-list  
 
-Buscando oportunidade de estágio em tecnologia, com foco em desenvolvimento de software e interesse no setor bancário.
+🔹 **api-finance**  
+API REST de transações financeiras (em desenvolvimento)  
+👉 https://github.com/leticia-meloo/api-finance  
 
 ---
 
-## 📫 Contato
+## 📚 Atualmente estudando
 
-<a href="https://www.linkedin.com/in/SEU-LINK" target="_blank">
+- JavaScript (avançado)  
+- Node.js  
+- APIs REST  
+- SQL  
+- Estrutura de dados  
+
+---
+
+## 🎯 Objetivo
+
+Buscando oportunidade de estágio em desenvolvimento de software para aplicar meus conhecimentos, evoluir na área e contribuir com soluções reais, especialmente no setor financeiro.
+
+---
+
+## 📫 Vamos nos conectar?
+
+<a href="https://www.linkedin.com/in/leticia-melo-dev" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="mailto:SEUEMAIL@email.com">
+<a href="mailto:leticiamelo.dev@gmail.com">
 <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
+
+---
+
+✨ Feito com dedicação e foco na evolução 🚀
+
+
+
 
