@@ -44,7 +44,7 @@ Estudante de ADS • Desenvolvedora em formação • JavaScript • Foco em bac
 
 Buscando oportunidade de estágio em tecnologia, com foco em desenvolvimento de software e interesse no setor bancário.
 
----
+
 
 ##  Contatos
 
