@@ -1,6 +1,6 @@
 # Olá, eu sou Leticia!
 
-Estudante de ADS • Desenvolvedora em formação • JavaScript • Foco em frontend e sistemas financeiros
+Desenvolvedora em formação • JavaScript • Foco em frontend e sistemas financeiros
 
 ---
 
