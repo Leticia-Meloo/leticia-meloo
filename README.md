@@ -1,6 +1,6 @@
 # Olá, eu sou Leticia!
 
-Desenvolvedora em formação • JavaScript • Foco em frontend e sistemas financeiros
+Desenvolvedora em formação • HTML • CSS • JavaScript • Foco em frontend e sistemas financeiros
 
 ---
 
