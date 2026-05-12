@@ -32,10 +32,12 @@ Desenvolvedora em formação • HTML • CSS • JavaScript • Interesse em te
 
 
 <div align="center">
+  
+  <img height="180em" 
+       src="https://github-readme-stats.vercel.app/api?username=Leticia-Meloo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leticia-Meloo&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leticia-Meloo&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+  <img height="180em" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leticia-Meloo&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
 
